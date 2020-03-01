@@ -22,11 +22,12 @@ html(lang="ru-RU")
 
     block body
         body(class=pageClass)
-            block header
-                include ../common/header
-                include ../utils/debugGrid
-            block content
-            block footer
-                include ../common/footer
-            block scripts
-                script(src='assets/js/main.js')
+          include ../utils/debugGrid
+          block header
+              include ../common/header
+
+          block content
+          block footer
+              include ../common/footer
+          block scripts
+              script(src='assets/js/main.js')
