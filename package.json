@@ -51,7 +51,7 @@
     "gulp-w3c-html-validator": "^2.0.0",
     "husky": "^4.2.3",
     "lighthouse": "^5.6.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "open": "^7.0.2",
     "sass-lint": "^1.13.1",
     "smart-grid": "^2.1.2",
